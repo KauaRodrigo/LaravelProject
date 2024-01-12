@@ -10,6 +10,6 @@ You can create and see yours ToDos, adding a title and a description for it
 
 ## Next Updates
 
-1 - Add Option to Delete;
-2 - Add Option to Edit;
-3 - Add Option to check ToDo;
+1 - Add Option to Delete;<br>
+2 - Add Option to Edit;<br>
+3 - Add Option to check ToDo;<br>
